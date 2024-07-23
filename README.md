@@ -5,6 +5,7 @@
 
  <p>
     <a href="https://github.com/CreatorsDAO"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
+    <a href="https://twitter.com/Labs706"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Twitter" /></a>
   </p>
 
 </div>
