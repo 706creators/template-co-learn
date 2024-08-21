@@ -10,8 +10,6 @@
 
 </div>
 
-[discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
-
 ## 共学前置
 
 参与这个共学需要知道
@@ -58,3 +56,11 @@
 
 1.
 2.
+
+## 共学产出
+
+按照 [项目模版](https://github.com/orgs/CreatorsDAO/discussions/60) 创建自己的 demo 项目，共学结束的时候参与 demo day。
+
+## 共学 QA
+
+[discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
