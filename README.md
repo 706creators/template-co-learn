@@ -10,7 +10,7 @@
 
 </div>
 
-(开启 Disscussions)
+[discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
 
 ## 共学前置
 
