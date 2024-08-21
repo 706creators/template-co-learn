@@ -12,6 +12,8 @@
 
 [discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
 
+[项目模版](https://github.com/orgs/CreatorsDAO/discussions/60)
+
 ## 共学前置
 
 参与这个共学需要知道
